@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.wechat-emoji{
+    background-color: #F4F8FB;
+}
+.wechat-emoji .swiper-slide{
+    background-color: #F4F8FB;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.wechat-emoji .swiper-slide img{
+    display: inline-block;
+    margin: 0px;
+    padding: 6px 3px;
+    height: 25px;
+}
+.wechat-emoji .swiper-slide>div{
+    margin: 0px;
+    padding: 0px;
+    height: 37px;
+
+}
+.wechat-emoji .swiper-pagination-bullet{
+    background-color: #BBBBBB;
+}
+
+.wechat-emoji .swiper-pagination-bullet-active{
+    background-color: #8C8C8C;
+}
